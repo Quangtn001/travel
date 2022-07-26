@@ -1,3 +1,3 @@
-# travel
-# Travel landing page using HTML CSS Javascript made by me
+# TAIWAN travel landing page
+# This page using HTML CSS Javascript made by me
 # Responsive design
