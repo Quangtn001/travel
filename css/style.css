@@ -183,6 +183,7 @@ header {
     top: 0;
     right: 0;
     z-index: -1;
+    object-fit: cover;
 }
 
 .banner__heading {
@@ -239,8 +240,8 @@ header {
 .des__items {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
-    grid-gap: 2rem;
-    padding: 2rem;
+    grid-gap: .8rem;
+    padding: 1rem;
 }
 
 .des__item {
@@ -265,9 +266,6 @@ header {
     background-color: var(--white);
     padding: 5px 70px 5px;
     border-radius: 20px;
-    position: absolute;
-    bottom: -2.2rem;
-    right: 1rem;
 }
 
 .des__item-detail h4 {
